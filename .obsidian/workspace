@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "9804cb90ddeff565",
+    "type": "split",
+    "children": [
+      {
+        "id": "13c82c42624e5138",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "se/Exclusion mutuelle.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0fb1f90fec0ca0d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "4cb1024e76ec38b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f63d7193302ac77f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c691b4288b153584",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8f6b82ef41d00902",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4821afcbfe191d3e",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f5878e5ca3ee30e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "640bf5001cd93248",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "se/Exclusion mutuelle.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0b1553fd6c210e4c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "se/Exclusion mutuelle.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "34d0eb7bc72338cd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1725672814872a36",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "se/Exclusion mutuelle.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "13c82c42624e5138",
+  "lastOpenFiles": [
+    "se/Program.md",
+    "se/Exclusion mutuelle.md",
+    "se/System Expoitation.md",
+    "se/NPA.md",
+    "se/last year.md",
+    "ihm/Apports de la psychologie contive.md",
+    "ihm/Program.md",
+    "ihm/introduction.md",
+    "GL/Diagrams.md",
+    "GL/Program.md"
+  ]
+}

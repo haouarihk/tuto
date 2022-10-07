@@ -17,11 +17,11 @@ same as static but with associations
 | name           |     |
 | -------------- | --- |
 | properties     |     |
-||     |
+|                |     |
 | -------------- |     |
 | operations     |     |
 | -------------- |     |
-|  responsability                |     |
+| responsibility |     |
 
 - **+**: Private
 - **-**: Public

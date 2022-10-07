@@ -10,12 +10,12 @@ The process needs to block the resources from the other processes so that no pro
 | 1537 | 7     |
 ```js
 for(let n=0; n < table.length; n++){
-	const E = table[n]
+	const E = table[n];
 	if(E < 0){
-		print(n)
-		table[n]--;	
+		print(n);
+		table[n]--;
 	}else
-		print("ne Pa de place")
+		print("Pas de place");
 }
 ```
 

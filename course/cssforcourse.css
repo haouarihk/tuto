@@ -1,0 +1,32 @@
+::-webkit-keygen-select,
+::selection{
+    color: rgb(0, 0, 0);
+    background-color: rgb(43, 226, 83);
+}
+
+::-webkit-scrollbar {
+    width: 6px;
+    background-color: rgba(0, 0, 255, 0.7);
+    border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: rgba(255, 0, 0, 0.65);
+    border-radius: 5px;
+}
+
+body {
+background-color: black;
+    color: antiquewhite;
+}
+
+
+.example {
+    width: auto;
+}
+
+
+.block-element-showcase {
+    height: 25px;
+    background-color: rebeccapurple;
+}

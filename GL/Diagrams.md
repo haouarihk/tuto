@@ -23,12 +23,23 @@ same as static but with associations
 | -------------- |     |
 |  responsability                |     |
 
-- **+**: Private
-- **-**: Public
-- : Preview
+- **+**: Public
+- **-**: Private
+- #: Preview
 
 ### operations
 ```rule
 Visibility OperationName(paramName:Type):returnType
 ```
 
+
+
+## Aggregation and Composition:
+
+- $\diamond$ Aggregation(formation, grouping): use it when the connected item isn't part of parent, or when the parent gets deleted the connected item wont also get deleted.
+
+- $\bullet$ composition(constitution, made-up):  use it when the connected  item is part of the parent, or when the parent gets deleted the connected item will also get deleted.
+
+
+## Generalisation:
+when you go from child to parent in the graph

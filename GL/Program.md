@@ -3,4 +3,4 @@
 
 ## Types of Diagrams
 
-## 
+

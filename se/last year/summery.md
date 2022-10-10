@@ -3,7 +3,7 @@
 the way processes organise their tasks among themselves
 
 
-## fifo, sjr, rr
+## [[FIFO]], [[SJF]], [[RR]]
 methods of organising tasks
 
 

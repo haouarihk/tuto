@@ -19,13 +19,11 @@ The changing get controlled by the Synconizer that controlls the Processor's tim
 
 
 
+## [[Exclusion mutuelle]]
 
-## execution mutuelle
-when 2 processes have the same task at the same time, they can make mistake of resolving it twice which is problematic
+## [[NPA]]
 
-so this is the solution of blocking one of them, because the other one wont have the neccesary tools to finish the task
-
-## l'interblockage
+## [[l'interblockage]]
 
 ## la comunication
 

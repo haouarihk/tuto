@@ -85,6 +85,9 @@ or
 the basic difference between them is that let can be changed later
 and const is short for  the word constant which cannot be changed once assigned
 
+
+
+
 ```js
 
 let isJsFun = true; // boolean

@@ -1,6 +1,9 @@
 # Mutual Exclusion
 The process needs to block the resources from the other processes so that no problems will occure, until the process finishes with these resources.
 
+when 2 processes have the same task at the same time, they can make mistake of resolving it twice which is problematic
+
+so this is the solution of blocking one of them, because the other one wont have the neccesary tools to finish the task
 
 ## Example:
 | n    | seats |

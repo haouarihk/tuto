@@ -7,12 +7,8 @@
         "id": "13c82c42624e5138",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "webdev/Javascript.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "webdev/Javascript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "webdev/Javascript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,12 +110,19 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "webdev/Javascript.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "8980b0b50b55dfa2",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -129,15 +130,15 @@
   },
   "active": "13c82c42624e5138",
   "lastOpenFiles": [
-    "webdev/CSS.md",
-    "course/Pasted image 20221007124935.png",
-    "webdev/Javascript.md",
-    "course/istockphoto.jpg",
-    "GL/Diagrams.md",
-    "GL/Exclusion.md",
-    "GL/Program.md",
-    "se/Exclusion mutuelle.md",
+    "se/last year/summery.md",
+    "se/last year/RR.md",
+    "se/last year/FIFO.md",
+    "se/last year/SJF.md",
     "se/Program.md",
-    "se/System Expoitation.md"
+    "se/last year.md",
+    "se/Introduction.md",
+    "se/NPA.md",
+    "se/l'interblockage.md",
+    "se/Exclusion mutuelle.md"
   ]
 }

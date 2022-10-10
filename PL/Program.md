@@ -2,11 +2,11 @@
 
 ## introduction
 
-## Rappal mathematique (just linear)
+## [[Rappel Mathematics]] (just linear)
 
-## Programme linear a 2 variables
+## [[Programme linear a 2 variables]]
 
-## Risolution graphique
+## [[Resolution]] graphic
 
 ## Programme linear a N variables
 

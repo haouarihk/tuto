@@ -1,7 +1,7 @@
 # Program
 
-- ## Probability And statistics
-- ## Probability Conditional And independant
+- ## [[Probability and statistics]]
+- ## [[Conditional Probabilities]]
 - ## Random(aleatories) Variables
 
 

@@ -1,6 +1,6 @@
 # Graph language
 
 
-## Types of Diagrams
+## Types of [[Diagrams]]
 
 

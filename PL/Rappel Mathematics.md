@@ -1,2 +1,2 @@
 # Rappel Mathematics
-## mare solution
+## [[Mare solution]]

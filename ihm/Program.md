@@ -1,6 +1,6 @@
 # Interface Human and Machine
 
 
-# Introduction
+# [[ihm/introduction]]
 
-# Apports de la psychologie contive 
+# [[Apports de la psychologie contive]]

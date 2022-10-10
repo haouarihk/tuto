@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "GL/Diagrams.md",
+            "file": "webdev/Javascript.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GL/Diagrams.md",
+                "file": "webdev/Javascript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GL/Diagrams.md",
+                "file": "webdev/Javascript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GL/Diagrams.md"
+                "file": "webdev/Javascript.md"
               }
             }
           }
@@ -129,15 +129,15 @@
   },
   "active": "13c82c42624e5138",
   "lastOpenFiles": [
+    "webdev/CSS.md",
+    "course/Pasted image 20221007124935.png",
+    "webdev/Javascript.md",
+    "course/istockphoto.jpg",
+    "GL/Diagrams.md",
     "GL/Exclusion.md",
     "GL/Program.md",
-    "GL/Diagrams.md",
     "se/Exclusion mutuelle.md",
     "se/Program.md",
-    "se/System Expoitation.md",
-    "se/NPA.md",
-    "se/last year.md",
-    "ihm/Apports de la psychologie contive.md",
-    "ihm/Program.md"
+    "se/System Expoitation.md"
   ]
 }

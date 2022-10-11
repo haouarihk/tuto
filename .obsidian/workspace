@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ihm/Apports de la psychologie contive.md",
+            "file": "readme.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ihm/Apports de la psychologie contive.md",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ihm/Apports de la psychologie contive.md",
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ihm/Apports de la psychologie contive.md"
+                "file": "readme.md"
               }
             }
           },
@@ -139,15 +139,15 @@
   },
   "active": "13c82c42624e5138",
   "lastOpenFiles": [
+    "ihm/Untitled.md",
+    "ihm/Theory of the gestalt.md",
+    "ihm/utilisability.md",
+    "ihm/utilite.md",
+    "ihm/Apports de la psychologie contive.md",
     "ihm/IHM program.md",
     "ihm/introduction.md",
-    "ihm/Theory of the gestalt.md",
     "readme.md",
     "webdev/WebDev program.md",
-    "GL.md",
-    "GL/GL program.md",
-    "se/SE program.md",
-    "PL/PL program.md",
-    "ps/PS Pogram.md"
+    "GL.md"
   ]
 }

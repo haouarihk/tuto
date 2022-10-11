@@ -6,5 +6,5 @@
 
 ## [[Metaphore]]
 
-## [[Theory of the lestalt]]
+## [[Theory of the gestalt]]
 

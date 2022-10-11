@@ -24,3 +24,8 @@ I'm making it public so that people who are in the same boat as me, can benefit 
 
 ## Shoutout to:
 **@Corupe**
+
+
+## DIsclaimer:
+THIS IS NOT WHAT THE OFFICIAL UNIVERSITY IS TEACHING, THAT'S JUST MY NOTES
+YOU SHOULD NOT BE RELYING ON THIS DOCUMENTATION ALONE.

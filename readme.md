@@ -14,12 +14,12 @@ I'm making it public so that people who are in the same boat as me, can benefit 
 
 ## What is on here?
 
-- [[GL/Program]]
-- [[ihm/Program]]
-- [[PL/Program]]
-- [[Pogram]]  (ps)
-- [[se/Program]]
-- [[webdev/program]]
+- [[GL program]]
+- [[IHM program]]
+- [[PL program]]
+- [[PS Pogram]] 
+- [[SE program]]
+- [[WebDev program]]
 
 
 ## Shoutout to:

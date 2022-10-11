@@ -5,18 +5,61 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": false,
-  "colorGroups": [],
-  "collapse-display": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:GL",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:PL",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:ihm",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:se",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:ps",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:webdev",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    }
+  ],
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 1.8,
-  "nodeSizeMultiplier": 3.28290598290598,
+  "textFadeMultiplier": -2.4,
+  "nodeSizeMultiplier": 3.1625,
   "lineSizeMultiplier": 5,
   "collapse-forces": false,
-  "centerStrength": 0.256410256410256,
-  "repelStrength": 12.4719101123596,
-  "linkStrength": 1,
-  "linkDistance": 412,
-  "scale": 0.22470868414076964,
+  "centerStrength": 0,
+  "repelStrength": 13.3333333333333,
+  "linkStrength": 0.886904761904762,
+  "linkDistance": 419,
+  "scale": 0.2086348379620332,
   "close": false
 }

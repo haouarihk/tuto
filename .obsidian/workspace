@@ -134,19 +134,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "13c82c42624e5138",
   "lastOpenFiles": [
-    "webdev/program.md",
+    "webdev/WebDev program.md",
     "readme.md",
-    "webdev/Javascript.md",
-    "PL/Programme linear a 2 variables.md",
-    "PL/Program.md",
-    "ps/Probability and statistics.md",
-    "ps/Pogram.md",
-    "ps/EquiProbability.md",
-    "ps/Conditional Probabilities.md",
-    "course/Pasted image 20221007124935.png"
+    "GL.md",
+    "GL/GL program.md",
+    "se/SE program.md",
+    "ihm/IHM program.md",
+    "PL/PL program.md",
+    "ps/PS Pogram.md",
+    "ihm/Apports de la psychologie contive.md",
+    "ihm/Theory of the lestalt.md"
   ]
 }

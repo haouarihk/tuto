@@ -108,3 +108,5 @@ meaning that A and B make a full C
 
 - $P(E) = P(E\cap F) + P(E\cap F')$$
 - $P(B\cap A') = P(B) - P(A)$
+- $P(A) + P(\hat{A}) = 1$
+- 

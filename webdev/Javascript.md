@@ -142,21 +142,97 @@ you basically can't use the `=` directly on a constant, but you can use it on a 
 ```js
 const myarr = [1,2,3];
 
-myarr.push(4)
+myarr.push(4) // [1,2,3,4]
 
 
-const jeff = {};
+const jeff = {}; 
 
 jeff.age = 69;
 jeff.height = "420cm";
 
+console.log(jeff) // { age:69, height:"420cm" }
 ```
 
-- we can do math calculations in javascript, suprize!
+- we can do math calculations in javascript, surperise!
 
 ```js
-let 
+let wello = 10 * 20; 
+console.log(wello) // logs 30
 
+```
+
+
+## Expand your thoughts:
+
+```js
+// you can also 
+// make an empty array
+const imEmptyInside = [];
+
+// and add stuff to it
+imEmptyInside.noLonger = "asdf"
+
+// you can also give it another object as a property
+imEmptyInside.notSoMuch = {
+  heyImHereNow: true
+}
+
+// and you can do the same thing with its sub objects
+imEmptyInside.notSoMuch.heyImHereNow2 = false;
+
+// but watch out for trying to set a property on a object that doesn't exist
+imEmptyInside.tooMuch.wellIShouldNotExist = true; // Error
 
 
 ```
+
+```js
+// you can do the same thing with arrays, the same thing with objects
+
+// arrays are just custom objects that their keys (notSoMuch,...etc) are numbers
+// at lest in the logical side of it
+// the object needs to know that its an array to use the push pop..etc functions
+
+
+const arr=[
+ "i'm the first item",
+ {
+   notSoMuch:{
+     heyImHereNow: true
+   }
+ }
+]
+
+
+// just to show you
+const arrGeneric = {
+ 1:"i'm the first item",
+ 2:{
+    notSoMuch:{
+	    heyImHereNow: true
+    }
+ }
+}
+
+// if you don't like nesting things (like i do), you can define them as their own variable and pass them in
+
+const notSoMuch ={
+	heyImHereNow: true
+}
+
+const E2={
+	notSoMuch // it's the same as saying notSoMuch: notSoMuch (a shortcut)
+}
+
+const arr2 = [
+	"i'm the first item",
+	E2 // not that you can do E2: E2, because property E2 doesn't exist in arr2, and the type of bracket (array backets) prevent you from specifing the index(key)
+]
+
+
+```
+
+### to note:
+- Objects are the most generic thing in javascript
+- Arrays are just objects on steroids
+- 

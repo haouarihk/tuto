@@ -1,9 +1,14 @@
 # Mutual Exclusion
 The process needs to block the resources from the other processes so that no problems will occure, until the process finishes with these resources.
 
-when 2 processes have the same task at the same time, they can make mistake of resolving it twice which is problematic
+- when 2 processes have the same task at the same time, they can make mistake of resolving it twice which is problematic
 
-so this is the solution of blocking one of them, because the other one wont have the neccesary tools to finish the task
+- when 2 proccess access the same variable(with read-write permissions), to modify it or/and check it. it could result in errors, if they both get executed at the same time, in parralel. the if statement could become outdated the moment it checks, by the other proccess modifying the variable that is being used right after the first proccess checks for it.
+
+
+[[section critic]]
+
+So this is the solution of blocking one of them, because the other one wont have the neccesary tools to finish the task
 
 ## Example:
 | n    | seats |
@@ -12,14 +17,31 @@ so this is the solution of blocking one of them, because the other one wont have
 | 2525 | 0     |
 | 1537 | 7     |
 ```js
-for(let n=0; n < table.length; n++){
-	const E = table[n];
-	if(E < 0){
-		print(n);
-		table[n]--;
-	}else
-		print("Pas de place");
-}
+const E = table[1616];
+if(E < 0){
+	print(E);
+	E--;
+}else
+	print("Pas de place");
 ```
 
 
+## How does the question comes:
+
+Every line of code will be named ($I_1$ ..),
+
+He will give you multiple proccesses Code.
+
+He will give you a table with different modes, (order of execution of each line on each proccess)
+
+He will ask you if the mode is correct, logically.
+
+And also what was the *valeur ribrplace*, *nobmre billet impremes*
+
+### example:
+| Mode execution                       | valeur ribrplace | nobmre billet impremes | Resultant correct eu faux |       |
+| ------------------------------------ | ---------------- | ---------------------- | ------------------------- |
+| sequentielle: $P_1$ -> $P_2$ ->$P_3$           | 0                | 02                     | Correct                   |    
+| parralel: $P_1\|P_2\|P_3$                          |                  |                     |                         |
+|   Pseudo-parralel: case1: $I_0,I_{0}^{'}$                                   |                  |                        |                           |       |
+|                                      |                  |                        |                           |       |

@@ -1,0 +1,1 @@
+is algorithmic description of a code

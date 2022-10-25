@@ -1,0 +1,1 @@
+Describes the operations, actions, and changes that occur in a system over time

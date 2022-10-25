@@ -4,16 +4,58 @@
     "type": "split",
     "children": [
       {
-        "id": "f99267b517aacaab",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "ps/Probability and statistics.md",
-            "mode": "source",
-            "source": false
+        "id": "06beb69164b5dc96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7209b4ef1d7cf10d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc8128a260d1ea27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "se/Exclusion mutuelle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "574a238ab5c1dd2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PL/Programme linear a 2 variables.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a3642e19e48dc73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "se/Intereption.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -31,7 +73,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -77,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ps/Probability and statistics.md",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ps/Probability and statistics.md",
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ps/Probability and statistics.md"
+                "file": "readme.md"
               }
             }
           },
@@ -137,17 +181,20 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f99267b517aacaab",
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "7209b4ef1d7cf10d",
   "lastOpenFiles": [
-    "ps/PS Pogram.md",
-    "ps/Conditional Probabilities.md",
-    "ps/EquiProbability.md",
-    "ps/Probability and statistics.md",
-    "ihm/Apports de la psychologie contive.md",
+    "GL.md",
+    "PL/exercise.md",
     "ihm/IHM program.md",
+    "readme.md",
+    "se/Introduction.md",
     "se/Exclusion mutuelle.md",
-    "se/SE program.md",
-    "se/section critic.md",
-    "readme.md"
+    "se/Intereption.md",
+    "PL/Programme linear a 2 variables.md",
+    "PL/Rappel Mathematics.md",
+    "PL/Resolution.md"
   ]
 }

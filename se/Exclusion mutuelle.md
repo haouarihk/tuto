@@ -40,3 +40,22 @@ And also what was the *valeur ribrplace*, *nobmre billet impremes*
 | parralel: $P_1\|P_2\|P_3$                          |                  |                     |                         |
 |   Pseudo-parralel: case1: $I_0,I_{0}^{'}$                                   |                  |                        |                           |       |
 |                                      |                  |                        |                           |       |
+
+
+
+## solution:
+sc: section critique;
+snc: section non critique;
+Process P1 & P2
+```js
+let bussy = false;
+
+<snc>
+while(bussy){};
+bussy = true;
+<sc>
+bussy = false;
+<snc>
+
+```
+It will block the process with the while loop, until it's not bussy.

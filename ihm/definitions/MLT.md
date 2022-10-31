@@ -1,0 +1,3 @@
+- long term memory
+- unlimited capacity
+- will not be forgotten

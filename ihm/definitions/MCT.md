@@ -1,0 +1,4 @@
+- Short term memory
+- on the spot
+- limited capacity
+- will be forgotten easily

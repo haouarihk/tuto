@@ -8,51 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7209b4ef1d7cf10d",
+            "id": "1c71931e98f963fb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "readme.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc8128a260d1ea27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "se/Exclusion mutuelle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "574a238ab5c1dd2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PL/Programme linear a 2 variables.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a3642e19e48dc73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "se/Intereption.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -121,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "readme.md"
-              }
+              "state": {}
             }
           },
           {
@@ -184,17 +140,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "7209b4ef1d7cf10d",
+  "active": "1c71931e98f963fb",
   "lastOpenFiles": [
-    "GL.md",
-    "PL/exercise.md",
+    "ihm/definitions/Memory.md",
     "ihm/IHM program.md",
-    "readme.md",
-    "se/Introduction.md",
-    "se/Exclusion mutuelle.md",
-    "se/Intereption.md",
-    "PL/Programme linear a 2 variables.md",
-    "PL/Rappel Mathematics.md",
-    "PL/Resolution.md"
+    "[MLT.md",
+    "ihm/definitions/Controle explicite.md",
+    "ihm/Les criteres engonomique.md",
+    "PL/exercise.md",
+    "PL/PL program.md",
+    "PL/Mare solution.md",
+    "ihm/definitions/MLT.md",
+    "ihm/definitions/MCT.md"
   ]
 }

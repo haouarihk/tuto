@@ -1,5 +1,6 @@
 # Program
 
 ## [[summery]]
-## [[se/Introduction]]
-### [[Exclusion mutuelle]]
+
+### Chapeter 1: [[se/Introduction]]
+### Chapter 2: [[Exclusion mutuelle]]

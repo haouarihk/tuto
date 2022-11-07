@@ -1,0 +1,1 @@
+Where tasks get handled by 1 process, one by one it finishes the tasks

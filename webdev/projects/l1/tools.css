@@ -1,0 +1,71 @@
+
+.flex{
+    display: flex;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+.items-center{
+    align-items: center;
+}
+
+.text-lg{
+    font-size: large;
+}
+.text-xl{
+    font-size: x-large;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.text-white{
+    color:white;
+}
+
+.bg-red{
+    background: red;
+}
+
+.bg-black{
+    background:#133337;
+}
+
+.btn{
+    padding: 2rem;
+    background-color: black;
+    cursor: pointer;
+    user-select: none;
+    -webkit-user-drag: none;
+}
+
+.btn:hover{
+    background-color: rgb(61, 60, 60);
+}
+
+.btn:active{
+    background-color: black;
+
+}
+
+.rounded{
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.gap-3{
+    gap:3rem;
+}
+
+.text-cat{
+    font-size: xx-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-stretch: extra-condensed;
+}

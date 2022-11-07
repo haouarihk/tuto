@@ -1,5 +1,5 @@
 # Conditional Probability
-Probability of F only and only if probability of E
+Probability of E only and only if probability of F
 
 $$P_F(E)= P(E/F)= \frac{P(E\cap F)}{P(F)}$$
 ## note:

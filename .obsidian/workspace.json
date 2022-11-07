@@ -8,14 +8,67 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1c71931e98f963fb",
+            "id": "5153fd65db7925b7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ps/definition/EquiProbability.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0678c983644527fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ps/definition/Uniforme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4157d0dd16315156",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ps/definition/lor de poisson.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "70422f8752f4753f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ps/definition/Bonoelle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f699d8b562d9c8c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "se/Definitions/Sequential.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,6 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ps/definition/lor de poisson.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ps/definition/lor de poisson.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +173,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ps/definition/lor de poisson.md"
+              }
             }
           },
           {
@@ -137,20 +194,17 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "1c71931e98f963fb",
+  "active": "4157d0dd16315156",
   "lastOpenFiles": [
-    "ihm/definitions/Memory.md",
-    "ihm/IHM program.md",
-    "[MLT.md",
-    "ihm/definitions/Controle explicite.md",
-    "ihm/Les criteres engonomique.md",
-    "PL/exercise.md",
-    "PL/PL program.md",
-    "PL/Mare solution.md",
-    "ihm/definitions/MLT.md",
-    "ihm/definitions/MCT.md"
+    "ps/Probability and statistics.md",
+    "ps/definition/lor de poisson.md",
+    "ps/definition/Uniforme.md",
+    "ps/definition/Bonoelle.md",
+    "ps/definition/EquiProbability.md",
+    "ps/PS Pogram.md",
+    "ps/Conditional Probabilities.md",
+    "webdev/HTML.md",
+    "webdev/Javascript.md",
+    "se/Definitions/SC.md"
   ]
 }

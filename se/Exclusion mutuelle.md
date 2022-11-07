@@ -4,7 +4,10 @@ The process needs to block the resources from the other processes so that no pro
 
 - when 2 proccess access the same variable([[RC]]), to modify it or/and check it. it could result in errors, if they both get executed at the same time, in parralel. the if statement could become outdated the moment it checks, by the other proccess modifying the variable that is being used right after the first proccess checks for it.
 
-So this is the solution of blocking one of them, because the other one wont have the neccesary tools to finish the task
+So this is the solution of blocking one of them, because the other one wont have the neccesary tools to finish the task.
+
+To achive the blockage we use [[SEMAPHORE]].
+
 
 ## Example:
 | n    | seats |
@@ -59,3 +62,4 @@ bussy = false;
 
 ```
 It will block the process with the while loop, until it's not bussy.
+

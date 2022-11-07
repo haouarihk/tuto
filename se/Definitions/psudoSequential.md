@@ -1,0 +1,1 @@
+finishes tasks just like sequential, but partially for each one, so it will finish just part from task 1,2 and 3. then it rents and repeat.

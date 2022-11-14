@@ -1,4 +1,4 @@
-it's a special case from [[Uniforme]] but it only have length of 2.
+it's a special case from [[Uniform distribution]] but it only have length of 2.
 
 If we have only 2 posibilities, and we know the posibility of one,
 $X=\{0,\,1\}$

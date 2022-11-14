@@ -1,6 +1,5 @@
-# Probability And statistics:
 also known as "Probabilitie et statistiques"
-
+It is the calculation that will determin how probable an action can happen
 
 
 
@@ -16,7 +15,7 @@ also known as "Probabilitie et statistiques"
 
 
 
-## sous-ensembles:
+### sous-ensembles:
 it's the result ensembles's operations:
 
 #### intersection: An(opposite of U)B
@@ -30,7 +29,7 @@ a: the bigger circle
 b in the excluded part of a
 the result is the what's left
 
-## probability:
+### probability:
 
 possibilty that item get chosen
 $$
@@ -41,7 +40,7 @@ $\times$ and
 $+$ or
 
 
-## A- get one by one (no returns)
+#### A- get one by one (no returns)
 
 $$
 A^r_n = \frac{n!}{(n-r)!}
@@ -64,7 +63,7 @@ $$
 
 
 
-## B- Get All at once
+#### B- Get All at once
 
 $$
 C^{r}_{n}= \frac{n!}{(n-r)!\times r!}
@@ -82,7 +81,7 @@ $$
 P_a = \frac{C_3^2 }{ Pt};
 $$
 
-## Special cases:
+### Special cases:
 
 - different color done done:
     each one is not the same as the other ones
@@ -104,9 +103,17 @@ meaning that A and B make a full C
 ### [[EquiProbability]]
 
 
-## Notes:
+### Notes:
 
 - $P(E) = P(E\cap F) + P(E\cap F')$$
 - $P(B\cap A') = P(B) - P(A)$
 - $P(A) + P(\hat{A}) = 1$
-- 
+
+
+
+## There are different ways to calulate probability in different distributions:
+
+- ### [[Uniform distribution]]
+
+
+

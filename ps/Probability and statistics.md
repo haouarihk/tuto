@@ -41,7 +41,7 @@ $\times$ and
 $+$ or
 
 
-## A- get all at once (no returns)
+## A- get one by one (no returns)
 
 $$
 A^r_n = \frac{n!}{(n-r)!}
@@ -52,7 +52,7 @@ $$
 sack of 3 blue balls, 2 red balls
 what is the probability of getting 2 balls from the sack that are blue, 
 
-**getting 2 balls at once**
+**getting 2 balls at one by one
 
 
 1- calculate the total probability
@@ -64,7 +64,7 @@ $$
 
 
 
-## B- Get one by one(with returns)
+## B- Get All at once
 
 $$
 C^{r}_{n}= \frac{n!}{(n-r)!\times r!}
@@ -73,7 +73,7 @@ $$
 sack of 3 blue balls, 2 red balls
 what is the probability of getting 2 balls from the sack that are blue, 
 
-**getting 2 balls one by one**
+**getting 2 balls all at once
 
 1- calculate the total probability
 $$P_t = C_5^2$$

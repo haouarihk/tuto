@@ -1,0 +1,3 @@
+- Read the source code
+- Tokenize 
+- Identify keywords,operators,literals,comments..etc

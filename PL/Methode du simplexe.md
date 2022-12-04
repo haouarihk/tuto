@@ -31,5 +31,5 @@ we start with Z = 0, based on the first equation
 
 
 - convert from normal to standard
-- calculate [[SBR]]  it will tigger [[Pivotage]]
+- calculate [[SBR]] it will tigger [[Pivotage]]
 - 

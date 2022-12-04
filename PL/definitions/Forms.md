@@ -1,6 +1,5 @@
+- ### [[NF]] (Normal Form)
 
-## Normal Zmax >=
+- ### [[SF]] (Standard Form)
 
-## Standard Zmax=
-
-linear
+- ### [[GF]] (General Form)

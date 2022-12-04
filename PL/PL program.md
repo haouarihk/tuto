@@ -6,14 +6,14 @@
 
 ## [[Programme linear a 2 variables]]
 
-## [[Resolution]] graphic
+## [[Resolution Graphic]]
 
 ## Programme linear a N variables
 
 ## Formulation PL
 
-## Methonde du simplexe
+## [[Methode du simplexe]]
 
 - Algorithme samplex
-- Resolution ( tabulaire)
+- Resolution (tabulaire)
 - duration

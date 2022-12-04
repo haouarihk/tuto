@@ -1,4 +1,0 @@
-# WebDev
-- [[Javascript]]
-- [[HTML]]
-- [[CSS]]

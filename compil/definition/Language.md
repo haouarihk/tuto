@@ -1,0 +1,1 @@
+is the combination of syntax. grammer and words

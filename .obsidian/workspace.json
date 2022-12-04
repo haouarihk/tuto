@@ -4,287 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "06beb69164b5dc96",
+        "id": "a3e6344f080c0bd2",
         "type": "tabs",
         "children": [
           {
-            "id": "5153fd65db7925b7",
+            "id": "9bae3d708f3cfdce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ps/definition/EquiProbability.md",
+                "file": "compil/introduction.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0678c983644527fc",
+            "id": "b5fada7021b06a04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ps/definition/Uniform distribution.md",
+                "file": "compil/introduction.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4157d0dd16315156",
+            "id": "95ae81d556965fcc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ihm/definitions/guidance.md",
+                "file": "PL/definitions/SF.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fe79dec71ec3339b",
+            "id": "0e0b940c71ac43f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ihm/Exercise shape.md",
+                "file": "compil/definition/Compile.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a2f0e11a9bce69c2",
+            "id": "2ee6a4cd708cfb13",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PL/definitions/Algorithm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "19755f0d0c339a61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PL/definitions/organigram.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d79d8745453766d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PL/PL program.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd39dfc6f5205e25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PL/definitions/Forms.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "822acc4b5038c2d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PL/Methode du simplexe.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b8262bfb16a0615",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PL/Methode du simplexe.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dffa3960d47d4322",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PL/definitions/VB.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b8f804770b3b5b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PL/Methode du simplexe.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "446f8f63cd5b2966",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PL/definitions/VB.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "57abdc597d6adc12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ps/definition/discontinuous.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "01bb14d452097d8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ps/definition/Uniform distribution.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ba0917df1c752148",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ps/definition/Uniform distribution.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "60c9a601abe58bd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ps/definition/Uniform distribution.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "afeee00019161719",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ps/definition/Uniform distribution.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4c9d9a4c80b07310",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ps/Probability and statistics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d4ec5fd345fc341",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ps/definition/Uniform distribution.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "442978cd514c519b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "compil/compil program.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "70422f8752f4753f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ps/definition/Bonoelle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f699d8b562d9c8c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "se/Definitions/Sequential.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 19
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -334,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "4821afcbfe191d3e",
@@ -351,7 +130,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ps/definition/Exponential distribution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -368,7 +146,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ps/definition/Exponential distribution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -390,9 +167,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ps/definition/Exponential distribution.md"
-              }
+              "state": {}
             }
           },
           {
@@ -408,57 +183,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
-  "floating": {
-    "id": "626f43a20f146c16",
-    "type": "floating",
-    "children": [
-      {
-        "id": "dedf65ecc87fa1fa",
-        "type": "window",
-        "children": [
-          {
-            "id": "3e2b5db16afe9953",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "fd03f308d6aa2def",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "ps/definition/Exponential distribution.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 960,
-        "height": 1040,
-        "maximize": true,
-        "zoom": 4
-      }
-    ]
-  },
-  "active": "fd03f308d6aa2def",
+  "active": "f63d7193302ac77f",
   "lastOpenFiles": [
-    "ps/definition/Uniform distribution.md",
-    "ps/definition/Exponential distribution.md",
-    "ps/definition/EquiProbability.md",
-    "ps/definition/Poisson distribution.md",
-    "ps/definition/Variance.md",
-    "ps/Probability and statistics.md",
-    "ps/Conditional Probabilities.md",
-    "ps/definition/Spovence.md",
-    "ps/definition/Density.md",
-    "ps/definition/Bonoelle.md"
+    "update windows commands.md",
+    "compil/definition/Compile.md",
+    "PL/definitions/SF.md",
+    "guide/twrp/install-en.md",
+    "PL/definitions/NF.md",
+    "PL/exercise.md",
+    "PL/Methode du simplexe.md",
+    "ihm/Exercise shape.md",
+    "ihm/Apports de la psychologie contive.md",
+    "ihm/definitions/Message.md"
   ]
 }

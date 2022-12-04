@@ -75,8 +75,8 @@ green x red:
 
 ### Calculating the optimal for maximum Profit
 
-**y:** represents the total profit
-	$y = 900x + 100y$
+**Y:** represents the total profit
+	$Y = 900x + 100y$
 
 we plug every point and see which one has the best profit
 - M1(0, 600)
